@@ -6,7 +6,6 @@ Hello, I’m Lucas!<br/> A student with a craving for learning that loves to be 
 
 In general, <strong>a good old daydreamer</strong>, It’s a pleasure to meet you!<br/>
 
-
 <h1>Why Programming?</h1>
 
 <p>Whereas technology is always marked as being the sector of the future, with great potential, safety and revenue for anyone who want to work on the area, there are other reasons for me to choose it (Of course, revenue and safety are on the list, I'm human after all).</p>
@@ -27,7 +26,7 @@ My beginning wasn't so exciting as many would easily judge, I just started a Sys
 
 <h1>What Are My Objectives?</h1>
 
-<p>Short and cleary, as a programmer, my main objective is to be a programmer, I'm currently looking for ways to work on the area and benefit
+<p>Short and clearly, as a programmer, my main objective for now is to become an official programmer. I'm currently looking for ways to work on the area and benefit other people with my skills, if you find yourself with a problem to be solved by good old code, feel free to contact me on linkedin: https://www.linkedin.com/in/lucas-barros-2bb72b1b8/
 
 <h2>My actual known languages involves:</h2> 
 <ul>
@@ -40,7 +39,4 @@ My beginning wasn't so exciting as many would easily judge, I just started a Sys
     <li>C#</li>
 </ul>
 
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
