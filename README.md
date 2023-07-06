@@ -12,18 +12,6 @@ In general, <strong>a good old daydreamer</strong>, It’s a pleasure to meet yo
 
 <p>First, I’m fascinated for learning and discovering, and technology it’s all about that! Everyday a new process is created, a problem is solved or a system is developed, being basically impossible to reach a skill ceiling on that area. Thus,  there is always a space to become better each new day. However, I also have always loved to learn about language and speech, to be able to communicate an idea, as I also did to solve those logical problems that my math teacher from elementary school used to pass. Consequently, with programming I was able to unite the best of those two worlds, language and logic. </p>
 
-<h1>Where Did I Start?</h1>
-
-My beginning wasn't so exciting as many would easily judge, I just started a Systems Development Course on early 2022 and, by consequence, started learning how to program. Although, as much as the first classes were simple, my passion for learning about the area was too. I'll always remember the first day that I've coded something, a site in HTML5 (well, a site if just a "My first site" on a blank screen aligns with your definition of site), it was at this moment that my mind changed and a thinking crossed my mind: "It was always that easy?", that heavily fed my excitement to learn how to program even more and that excitement didn't fall since then. 
-
-<h1>Who Is My Programmer Self Now?</h1>
-
-<p>Nowadays I'm still doing that Systems Development course and along it I've learned much more things than HTML, obviously, but I can't deny that web developer was the desirable area of mine for a good chunk of time. HTML5 and CSS were my favorite, much because it's very easy to find a meaning for your programming when sites are involved, they're extremely visual after all.</p>
-
-<p>However, I recently started to focus my efforts on the oposite side, back-end, more specifically, <strong>Data Science</strong>, "why?" may you ask and "Because why not?" may I answer. The capability of analyzing data and finding a meaning behind a confusing amount of nothing till you organize it as information, to use all your logical and problem solving skills to discover hidden facts and make them useful for someone or something while using math, how can I dislike that after all that I've said?</p>
-
-<p>Based on all that, Data Science is my actual focus, which leads to our next topic</p>
-
 <h1>What Are My Objectives?</h1>
 
 <p>Short and clearly, as a programmer, my main objective for now is to become an official programmer. I'm currently looking for ways to work on the area and benefit other people with my skills, if you find yourself with a problem to be solved by good old code, feel free to contact me on linkedin: https://www.linkedin.com/in/lucas-barros-2bb72b1b8/
