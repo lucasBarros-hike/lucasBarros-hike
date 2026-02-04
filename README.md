@@ -1,33 +1,41 @@
 <h1>👋 Olá! Eu sou o Lucas</h1>
 
-<p>Sou um desenvolvedor com foco em desenvolvimento web e back-end. Tenho experiência com diferentes linguagens e frameworks. Gosto de resolver problemas reais com tecnologia e aprender constantemente, tanto sozinho quanto em equipe. Valorizo organização, clareza e boa comunicação</p>
+<p>Sou um desenvolvedor com foco em programação web fullstack. Tenho experiência com diferentes linguagens e frameworks. Gosto de resolver problemas reais com tecnologia e aprender constantemente, tanto sozinho quanto em equipe. Valorizo organização, clareza e boa comunicação</p>
 
 <h2>💻 Tecnologias & Ferramentas</h2>
 
-<h3>🧩 Front-end </h3>
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-</ul>
-
-<h3>⚙️ Back-end</h3>
-<ul>  
-    <li>Java</li>
-    <li>Spring</li>
-    <li>PHP</li>
-    <li>Laravel</li>
-    <li>Python</li>
-    <li>C</li>
-    <li>C#</li>  
-</ul>
-
-<h3>🗄️ Banco de Dados</h3>
-<ul>
-    <li>MariaDB</li>
-    <li>MySQL</li>
-    <li>LiveSQL</li>
-</ul>
+<table>
+  <tr>
+    <td><strong>Front-end</strong></td>
+    <td><strong>Back-end</strong></td>
+    <td><strong>Banco de Dados</strong></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>Java</td>
+    <td>MariaDB</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>Spring</td>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>PHP</td>
+    <td>LiveSQL</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>Laravel</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Angular</td>
+    <td>C#</td>
+    <td></td>
+  </tr>
+</table>
 
 <h2>📫 Contato</h2>
 
