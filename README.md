@@ -1,5 +1,3 @@
-<h1>👋 Olá! Eu sou o Lucas</h1>
-
 <p>Sou um desenvolvedor com foco em programação web fullstack. Tenho experiência com diferentes linguagens e frameworks. Gosto de resolver problemas reais com tecnologia e aprender constantemente, tanto sozinho quanto em equipe. Valorizo organização, clareza e boa comunicação</p>
 
 <h2>💻 Tecnologias & Ferramentas</h2>
